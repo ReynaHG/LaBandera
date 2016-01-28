@@ -1,23 +1,26 @@
 /* Escribe tu css aqui */
 div {
-height:100px; 
-width:400px;
-font-size: 40px;	
+height:20%; 
+width:20%;
+font-size: 150%;
+margin-bottom:2%;
+display: inline-block;
 }
 
 .amarillo{
-background-color: yellow;
+background-color:yellow;
 }
 
 .rojo{
-background-color: red;	
+background-color:red;	
 }
 .pd15{
-	padding-left: 5px;
+	padding-left:2%;
 }
 .pdt5{
-padding-top: 5px;	
+padding-top:2%;	
 }
-.may{
+ .may{
 text-transform: uppercase;
-}
+ }
+
