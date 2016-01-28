@@ -3,12 +3,12 @@ div {
 height:30%;
 width:30%;
 font-size: 150%;
-margin-left:5%;
-display: inline;
+margin-bottom:2%;
+display: block;
 }
 
 p {
-display: inline;
+display: block;
 }
 .amarillo{
 background-color:yellow;
@@ -26,6 +26,3 @@ padding-top:2%;
  .may{
 text-transform: uppercase;
  }
-.exc{
-	margin-left: 0%;
-}
